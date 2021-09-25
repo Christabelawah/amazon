@@ -1,0 +1,5 @@
+#monitoring applications serve1
+free -m
+df -H
+date
+

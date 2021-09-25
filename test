@@ -1,0 +1,10 @@
+#!/bin/bash
+#learning to write script
+#Author Christabel Azeh
+echo "Devops is my culture" >test2
+echo "study devops now with your family"
+whoami
+pwd
+echo "today day date is `date`
+mkdir auto
+
